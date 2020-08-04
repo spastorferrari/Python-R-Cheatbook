@@ -1,0 +1,11 @@
+jerry     288
+you       235
+i         216
+the       210
+to        190
+a         164
+elaine    105
+george     95
+he         76
+and        76
+dtype: int64

@@ -1,0 +1,11 @@
+         Script1  Script2
+jerry      194.0     94.0
+elaine      73.0     32.0
+helen       38.0      0.0
+im          31.0     18.0
+george      31.0     64.0
+oh          31.0     20.0
+vanessa     30.0      0.0
+yeah        25.0     18.0
+morty       23.0      0.0
+dont        22.0     18.0
